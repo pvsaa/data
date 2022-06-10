@@ -4,10 +4,10 @@ Yleisin tiedosto muoto: csv
 
 esim.
   sää/<paikka>/
-              vc151.te.csv
-              vc151.ip.csv
-              vc302.tem.csv
-              vch302.te.csv
+              vc151.te.3001251.csv
+              vc151.ip.1011254.csv
+              vc302.tem.3001541.csv
+              vch302.te.3001215.csv
   
   vc = paikka mistä tiedot ovat
   h = jos tiedot ovat historiaa, muuten ei ole
@@ -19,5 +19,9 @@ esim.
   ip = ilmanpaine
   ko = kosteus
   tem = min, max ja normaali lämpötila
+  
+  3001251:
+  300 = päivä vuodesta jona tehty esim. 300
+  1251 = 12:51 eli tunnit ja minuutit
              
             
